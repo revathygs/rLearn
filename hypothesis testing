@@ -1,0 +1,7 @@
+Hypothesis Testing
+
+In any data science problem we have to validate the inferences derived from the data. Testing the inference is known as hypothesis testing.
+
+The belief that the data analysts perceive is called as the alternate hypothesis.
+
+The null hypothesis will always be the opposite of the alternate hypothesis.
